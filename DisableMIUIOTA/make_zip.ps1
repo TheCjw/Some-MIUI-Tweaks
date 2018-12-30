@@ -1,0 +1,1 @@
+zip -x ".zip" -x ".gitattributes" -x ".git" -x "*.gitignore" -x "*.ps1" -x "README.md" -r DisableMiuiOTA.zip .
