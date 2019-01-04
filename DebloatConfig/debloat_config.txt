@@ -27,3 +27,5 @@ O2O^=/system/data-app/O2O
 XiaomiJrSecurity^=/system/data-app/XiaomiJrSecurity
 MiFinance^=/system/data-app/MiFinance
 BaiduIME^=/system/data-app/BaiduIME
+Joyose^=/system/app/Joyose
+FM^=/system/app/FM
